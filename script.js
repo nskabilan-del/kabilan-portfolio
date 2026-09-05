@@ -5,6 +5,16 @@
 // Leave github/demo empty ('') to hide that button automatically.
 // ============================================================
 const PROJECTS = [
+   {
+    title: "Synchronous_FIFO",
+    subtitle: "Verilog",
+    description: "A Verilog project implementing a 16×8 synchronous FIFO with read/write control, pointer-based data management, toggle-bit Full/Empty detection, and error handling. Developed and verified using ModelSim, with source code version-controlled on GitHub.",
+    tech: ["Verilog"],
+    role: "RTL Design &amp; Verification",
+    outcomes: [],
+    github: "https://github.com/nskabilan-del/Synchronous-_FIFO.git",
+    demo: ""
+  },
   {
     title: "SR_FF_graycode",
     subtitle: "Verilog",
