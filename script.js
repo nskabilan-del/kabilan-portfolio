@@ -6,6 +6,16 @@
 // ============================================================
 const PROJECTS = [
    {
+  title: "SystemVerilog_Ethernet_Packet_OOP",
+  subtitle: "SystemVerilog",
+  description: "A SystemVerilog project demonstrating Object-Oriented Programming (OOP) through Ethernet packet modeling, including classes, constructors, static variables, randomized fields, payload queues, constraints, and XOR-based CRC/checksum calculation. Developed and verified using ModelSim/QuestaSim, with source code version-controlled on GitHub.",
+  tech: ["SystemVerilog", "OOP"],
+  role: "SystemVerilog OOP & Verification",
+  outcomes: [],
+  github: "https://github.com/nskabilan-del/Ethernetpacket_OOPS.git",
+  demo: ""
+},
+   {
     title: "Synchronous_FIFO",
     subtitle: "Verilog",
     description: "A Verilog project implementing a 16×8 synchronous FIFO with read/write control, pointer-based data management, toggle-bit Full/Empty detection, and error handling. Developed and verified using ModelSim, with source code version-controlled on GitHub.",
